@@ -1,0 +1,1 @@
+import{aF as s}from"./index-d93c72e8.js";const r=s("cart",{state:()=>({products:[]}),getters:{},actions:{AddToCart(t){this.products.push(t)},deleteProduct(t){this.products.splice(t,1)}},persist:!0});export{r as u};
